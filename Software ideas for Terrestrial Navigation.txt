@@ -1,0 +1,55 @@
+Software - Terrestrial Navigation
+
+STAT 133 – Geospatial Data
+
+1. Latitude & Longitude Trainer
+
+- Enter coordinates and identify a location on a map.
+- Convert between degrees-minutes-seconds (DMS) and decimal degrees.
+- Practice reading coordinates and plotting positions.
+  Level: Beginner · Educational software
+
+Compass Degrees - 10 Free PDF Printables | Printablee | Carta de navegacion, Escuela nautica, Fórmulas de geometría
+
+2. Compass Bearing Calculator
+
+- Calculate bearings from 000° to 359°.
+- Convert between cardinal directions and numerical bearings.
+- Practice true north, magnetic north, and compass north, including variation and deviation.
+  Level: Beginner · Calculation tool
+
+Slik tar du ut kompasskurs
+
+3. Land Navigation Simulator
+
+- Display a map with a starting point, destination, and checkpoints.
+- Let users select a bearing and travel distance.
+- Simulate movement and show the resulting position.
+  Level: Intermediate · Interactive simulation
+
+4. Distance, Time & Speed Calculator
+
+- Calculate distance from speed and time.
+- Calculate estimated travel time between two positions.
+- Convert kilometres, metres, nautical miles, knots, and kilometres per hour.
+  Level: Beginner · Utility software
+
+2D Triangulation - Nextjournal
+
+5. Position-Fixing & Triangulation Tool
+
+- Determine an estimated position using bearings to known landmarks.
+- Demonstrate the intersection of bearing lines.
+- Explain position fixing, resection, and the effects of measurement errors.
+  Level: Intermediate · Navigation mathematics
+
+TWONAV AVENTURA 2 PLUS BLUE - GPS
+
+6. GPS-Based Navigation Practice App
+
+- Display the user's location and coordinates.
+- Show direction, distance to a waypoint, and route progress.
+- Teach the difference between GPS position, map position, and compass heading.
+  Level: Intermediate to advanced · Location-enabled app
+
+
